@@ -1,6 +1,6 @@
 print("KONFIRMASI RESMI")
 
-print("Plugin ini resmi kami tutup paksa.")
+print("Plugin .ini resmi kami tutup paksa.")
 
 print("Penutupan dilakukan karena adanya pelanggaran dari pihak pengguna internal yang menyebarkan plugin berbayar secara gratis kepada user lain tanpa izin.")
 
